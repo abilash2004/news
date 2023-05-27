@@ -1,0 +1,33 @@
+
+header {
+    background-color: #85f858;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 32px;
+    margin: 0;
+  }
+  main {
+    margin: 70px;
+  }
+  article {
+    margin-bottom: 7px;
+    font-size: xx-large;
+  }
+  h2 {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .author {
+    font-style: italic;
+  }
+  .date {
+    color: #666;
+  }
